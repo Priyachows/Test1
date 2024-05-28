@@ -1,0 +1,6 @@
+AMR  are robots capable of navigating and performing 
+    tasks in dynamic environments without constant human intervention or guidance. These robots utilize various sensors, 
+    algorithms, and decision-making capabilities to autonomously move, interact with their surroundings, and execute predefined 
+    tasks or missions. AMRs find applications across various industries, including logistics, manufacturing, healthcare, retail, 
+    agriculture, and more. They offer benefits such as increased efficiency, improved safety, cost savings through automation, 
+    and the ability to handle tasks in dynamic and unstructured environments.
